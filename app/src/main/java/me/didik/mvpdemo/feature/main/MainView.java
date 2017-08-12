@@ -1,4 +1,4 @@
-package me.didik.mvpdemo.main;
+package me.didik.mvpdemo.feature.main;
 
 /**
  * Created by didik on 8/5/17.
